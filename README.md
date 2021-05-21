@@ -1,2 +1,2 @@
 # easy-springmvc-maven
-## An simple demo about how to use maven combine spring mvc,for blog sample
+# 主要是为了完成jenkins-docker的CI/CD测试
