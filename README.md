@@ -1,2 +1,2 @@
 # easy-springmvc-maven
-# 主要是为了完成jenkins-docker的CI/CD测试
+# Mainly to complete the CI/CD test of Jenkins-Docker
